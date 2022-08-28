@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Studio, coding in c++ and java.
 - 🌱 I’m currently learning app development.
 - 💞️ I’m looking to collaborate on Dota 2 custom game mods or a steam game.
-- 📫 How to reach me Email: Nick_Shier@hotmail.com or discord @shy #3328
+- 📫 How to reach me Email: ligdota@gmail.com or discord @shy #3328
 
 <!---
 ligdota/ligdota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
