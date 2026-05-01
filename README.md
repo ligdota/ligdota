@@ -24,7 +24,6 @@ I have built projects in the areas of C/C++ systems programming, IOS educational
 ## Current Interests
 
 Right now I am most interested in projects that combine clean application structure with practical problem solving, especially embedded systems & robotics, and game development.
-README.md
 <!---
 ligdota/ligdota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
