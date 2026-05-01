@@ -14,11 +14,11 @@ I have built projects in the areas of C/C++ systems programming, IOS educational
 
 ## Featured Repositories
 
-- [Atari-Game](https://github.com/ligdota/Atari-Game): Atari ST platformer written in C
-- [Mini-bash-shell](https://github.com/ligdota/Mini-bash-shell): small Unix shell implementation in C
 - [Slitherlink-puzzle-solver](https://github.com/ligdota/Slitherlink-puzzle-solver): C++ logic puzzle solver
 - [SciCards](https://github.com/ligdota/SciCards): SwiftUI flashcard app for science study
 - [TheatreManager](https://github.com/ligdota/TheatreManager): C++ and SQLite theatre management system
+- [Atari-Game](https://github.com/ligdota/Atari-Game): Atari ST platformer written in C
+- [Mini-bash-shell](https://github.com/ligdota/Mini-bash-shell): small Unix shell implementation in C
 - [word-counter](https://github.com/ligdota/word-counter): Windows Forms word and character counter
 
 ## Current Interests
