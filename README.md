@@ -1,16 +1,15 @@
 # Nick Shier
 
-I have built projects in the areas of C/C++ systems programming, IOS educational software, C# game development, and data-backed command-line tools.
-
+Computer Science grad from Mount Royal University. I enjoy coding in C++ doing low level systems and backend programming. Sometimes I like to explore game development using Unity.
 ## Focus Areas
 
-- C and C++ coursework projects
-- iOS and SwiftUI application development
-- database-backed console applications
+- C and C++ Command line applications
+- iOS and SwiftUI education development
+- database-backed theatre management system
 - puzzle solving and algorithmic programming
 - C# game prototypes and modding experiments
 - Useful and lightweight .NET applications
-- Embedded systems programming
+- Embedded systems programming 
 
 ## Featured Repositories
 
@@ -23,7 +22,7 @@ I have built projects in the areas of C/C++ systems programming, IOS educational
 
 ## Current Interests
 
-Right now I am most interested in projects that combine clean application structure with practical problem solving, especially embedded systems & robotics, and game development.
+Right now I am most interested in robotics projects. I am currently exploring the area of UGV's, UAV's, and UWV's.
 <!---
 ligdota/ligdota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
