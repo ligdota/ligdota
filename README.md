@@ -1,11 +1,15 @@
 # Nick Shier
 
-Computer Science grad from Mount Royal University. I enjoy coding in C++ doing low level systems and backend programming. Sometimes I like to explore game development using Unity.
+Hello! I am a Computer Science gradate from Mount Royal University. Sometimes I like to explore game development using Unity.
+I like to expose myself to a wide array of topics and I am still finding my footing of which area I would like to dive deeper into for my first job. 
+
+Currently I really enjoy learning about embedded systems.
+
 ## Focus Areas
 
 - C and C++ Command line applications
-- iOS and SwiftUI education development
-- database-backed theatre management system
+- iOS and SwiftUI science education applications
+- SQLITE3 database-backed theatre management system
 - puzzle solving and algorithmic programming
 - C# game prototypes and modding experiments
 - Useful and lightweight .NET applications
