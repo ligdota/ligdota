@@ -26,7 +26,7 @@ Currently I really enjoy learning about embedded systems.
 
 ## Current Interests
 
-Right now I am most interested in robotics projects. I am currently exploring the area of UGV's, UAV's, and UWV's.
+Right now I am most interested in robotics projects. I am currently exploring the area of UGV's and UAV's
 <!---
 ligdota/ligdota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
