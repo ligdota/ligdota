@@ -3,7 +3,7 @@
 Hello! I am a Computer Science gradate from Mount Royal University. Sometimes I like to explore game development using Unity.
 I like to expose myself to a wide array of topics and I am still finding my footing of which area I would like to dive deeper into for my first job. 
 
-Currently I really enjoy learning about embedded systems.
+Currently I really enjoy learning about embedded systems and leetcoding! https://leetcode.com/u/nshie172/
 
 ## Focus Areas
 
